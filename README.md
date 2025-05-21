@@ -21,4 +21,4 @@ This dataset is gotten from Kaggle and is synthetic data. It highlights the sale
 
 These are just a few insights that can be derived from this dataset.
 
-## [To view report, click here](https://ibb.co/bg1TwKvS)
+## [To view report, click here](https://ibb.co/F4HcSgxr)
