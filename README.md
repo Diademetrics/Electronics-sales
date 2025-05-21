@@ -1,12 +1,16 @@
-# Electronics-sales
-Data visualization
+## Electronics-sales
+### Data visualization
 
---Tools used
+### Tools used
 Microsoft excel: Used to format the data to the desired style
 Power bi: Data visualization
---Electronics sales dataset
+--
+### Electronics sales dataset
+---
 This dataset is gotten from Kaggle and is synthetic data. It highlights the sales of tech devices for a company across Q4 of 2023 and Q1-Q2 of 2024
-Key highlights from the dataset
+--
+### Key highlights from the dataset
+
 1.	Sales greatly increased from 2023-2024, indicating a rapid growth in the company’s popularity.
 2.	The top two most sold products were smartphones and smartwatches across the two years accounting for 50% of total sales. Headphones, however, haven’t done so well because headphones were recently added to the products list and therefore customers are not aware that the company has started selling headphones. It is recommended that to push headphone sales, promotions, activations and price slashes are employed.
 3.	August and January are the months when sales were highest. November and December were the months with the lowest sales.
